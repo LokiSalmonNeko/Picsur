@@ -8,6 +8,8 @@
 
 > Totally not an Imgur clone
 
+**NOT MAINTAINED, see the [FAQ](#faq)**
+
 I couldn't really find any open source project that allowed you to easily host images. So I decided to create one.
 
 It feels like a hybrid between Imgur and Pastebin.
@@ -80,9 +82,11 @@ If you like this project, don't forget to give it a star. It tells me that I'm n
 
 ### Is this project maintained?
 
-Yes it still is. If I were to stop maintaining it, I would archive the repository.
+Nope, not anymore, I simply haven't got the time or energy. It really is suprising how little quickly time passes once ya start a normal job. 
 
-However I do not have a lot of time on my hands, so updates are not always as frequent as I would like them to be.
+Feel free to fork it and continue where I left off. And if anyone wants to take full ownership of the project, also fork it and show some love for it, then hmu after.
+
+Maybe I'll find some random time in the future and continue on with this project, but we'll see.
 
 ### Why do my images dissapear of the public instance?
 
